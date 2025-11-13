@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "daily-agent-workers",
+	"name": "agent-workers",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-11-11",
 	"observability": {
